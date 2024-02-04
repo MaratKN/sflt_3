@@ -23,4 +23,4 @@
 
 На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-![alt text](https://github.com/MaratKN/sflt_3/blob/main/img2.jpg)
+![alt text](https://github.com/MaratKN/sflt_3/blob/main/img22.jpg)
